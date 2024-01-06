@@ -1,7 +1,7 @@
 import propTypes from "prop-types";
 
 import BulkController from "./BulkController";
-import FilterController from "./Filter-controller";
+import FilterController from "./FilterController";
 import ViewController from "./ViewController";
 import SearchPanel from "./searchPanel";
 const Controller = ({
