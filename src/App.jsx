@@ -3,7 +3,7 @@ import { v4 } from "uuid";
 
 import ListView from "./Stack-Todos/ListView/ListView";
 import TableView from "./Stack-Todos/TableView/TableView";
-import Controller from "./Stack-Todos/controllers/Index";
+import Controller from "./Stack-Todos/controllers/Controller";
 import Modal from "./Stack-Todos/modal/Modal";
 
 class App extends Component {
