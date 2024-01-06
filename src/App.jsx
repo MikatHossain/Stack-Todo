@@ -4,6 +4,7 @@ import ListView from "./Stack-Todos/ListView/ListView";
 import TableView from "./Stack-Todos/TableView/TableView";
 import Controller from "./Stack-Todos/controllers";
 import Modal from "./Stack-Todos/modal/Modal";
+
 class App extends Component {
   state = {
     todos: [], // Store Todos
