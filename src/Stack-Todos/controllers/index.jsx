@@ -1,8 +1,8 @@
 import propTypes from "prop-types";
 
 import BulkController from "./BulkController";
+import FilterController from "./Filter-controller";
 import ViewController from "./ViewController";
-import FilterController from "./filter-controller";
 import SearchPanel from "./searchPanel";
 const Controller = ({
   toggleForm,
